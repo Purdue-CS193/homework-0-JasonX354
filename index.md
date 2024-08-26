@@ -1,6 +1,6 @@
 # Jason Xie's First CS193 Homework
 
-## Favorite things about cS193: 
+## Favorite things about CS193: 
 - Lecture recordings are posted every Wednesday 
 - PSO Attendance is not mandatory 
 - No exams and no textbooks! 
